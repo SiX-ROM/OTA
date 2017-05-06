@@ -1,0 +1,22 @@
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+
+<shamu>
+<Filename>7.1.2-20170505-OMS.v2.1-R3Ds</Filename>
+<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=745425885120729593</RomUrl>
+<ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
+<BeansGappsMiniUrl id="beans-gapps-mini" title="Mini Dynamic Gapps" description="04/11/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634761370</BeansGappsMiniUrl>
+<XDAUrl id="xda" title="B14CKB1RD" description="Kernel by REV3NTECH">https://www.androidfilehost.com/?fid=745425885120725022</XDAUrl>
+</shamu>
+
+<angler>
+<Filename>7.1.2-20170505-OMS.v2.1-R3Ds</Filename>
+<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=457095661767158879</RomUrl>
+<ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
+<BeansGappsMiniUrl id="beans-gapps-mini" title="Mini Dynamic Gapps" description="04/11/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634761370</BeansGappsMiniUrl>
+<BeansGappsFullUrl id="beans-gapps-full" title="Vendor" description="Latest vendor img">https://www.androidfilehost.com/?fid=745425885120728809</BeansGappsFullUrl>
+<XDAUrl id="xda" title="Google+" description="Community">https://plus.google.com/u/0/communities/108198916369516028494</XDAUrl>
+</angler>
+
+</Stable>
+</SlimOTA>
