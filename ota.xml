@@ -18,5 +18,14 @@
 <EXUrl id="ex" title="ElementalX" description="Kernel by flar2">https://elementalx.org/devices/nexus-6p/</EXUrl>
 </angler>
 
+<bullhead>
+<Filename>7.1.2-20170509-OFFICIAL.v2.2-R3Ds</Filename>
+<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=673368273298953488</RomUrl>
+<ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
+<GappsMiniUrl id="gapps-mini" title="Mini Dynamic Gapps" description="04/11/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634761370</GappsMiniUrl>
+<VendorUrl id="vendor" title="Vendor N2G47O" description="Latest vendor img">https://www.androidfilehost.com/?fid=529152257862723763</VendorUrl>
+<EXUrl id="ex" title="ElementalX" description="Kernel by flar2">https://elementalx.org/devices/nexus-5x/</EXUrl>
+</bullhead>
+
 </Stable>
 </SlimOTA>
