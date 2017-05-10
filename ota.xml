@@ -3,26 +3,29 @@
 
 <shamu>
 <Filename>7.1.2-20170509-OFFICIAL.v2.2-R3Ds</Filename>
-<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=673368273298953443</RomUrl>
 <ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
-<GappsMiniUrl id="gapps-mini" title="Mini Dynamic Gapps" description="04/11/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634761370</GappsMiniUrl>
-<BBUrl id="xda" title="B14CKB1RD" description="Kernel by REV3NTECH">https://www.androidfilehost.com/?fid=745425885120725022</BBUrl>
+<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=673368273298953443</RomUrl>
+<GappsMiniUrl id="gapps-mini" title="Beans Mini-Dynamic Gapps" description="05/09/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=673368273298953529</GappsMiniUrl>
+<GappsFullUrl id="gapps-full" title="Beans Full-Dynamic Gapps" description="05/09/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120730638</GappsFullUrl>
+<BBUrl id="bb" title="B14CKB1RD" description="Kernel by REV3NTECH">https://www.androidfilehost.com/?fid=745425885120725022</BBUrl>
 </shamu>
 
 <angler>
 <Filename>7.1.2-20170509-OFFICIAL.v2.2-R3Ds</Filename>
-<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=745425885120730581</RomUrl>
 <ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
-<GappsMiniUrl id="gapps-mini" title="Mini Dynamic Gapps" description="04/11/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634761370</GappsMiniUrl>
+<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=745425885120730581</RomUrl>
+<GappsMiniUrl id="gapps-mini" title="Beans Mini-Dynamic Gapps" description="05/09/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=673368273298953529</GappsMiniUrl>
+<GappsFullUrl id="gapps-full" title="Beans Full-Dynamic Gapps" description="05/09/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120730638</GappsFullUrl>
 <VendorUrl id="vendor" title="Vendor N2G47O" description="Latest vendor img">https://www.androidfilehost.com/?fid=745425885120728809</VendorUrl>
 <EXUrl id="ex" title="ElementalX" description="Kernel by flar2">https://elementalx.org/devices/nexus-6p/</EXUrl>
 </angler>
 
 <bullhead>
 <Filename>7.1.2-20170509-OFFICIAL.v2.2-R3Ds</Filename>
-<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=673368273298953488</RomUrl>
 <ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
-<GappsMiniUrl id="gapps-mini" title="Mini Dynamic Gapps" description="04/11/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=817550096634761370</GappsMiniUrl>
+<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=673368273298953488</RomUrl>
+<GappsMiniUrl id="gapps-mini" title="Beans Mini-Dynamic Gapps" description="05/09/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=673368273298953529</GappsMiniUrl>
+<GappsFullUrl id="gapps-full" title="Beans Full-Dynamic Gapps" description="05/09/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120730638</GappsFullUrl>
 <VendorUrl id="vendor" title="Vendor N2G47O" description="Latest vendor img">https://www.androidfilehost.com/?fid=529152257862723763</VendorUrl>
 <EXUrl id="ex" title="ElementalX" description="Kernel by flar2">https://elementalx.org/devices/nexus-5x/</EXUrl>
 </bullhead>
