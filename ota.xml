@@ -2,10 +2,11 @@
 <Stable>
 
 <shamu>
-<Filename>7.1.2-20170706-N2G48B-v4.0-R3Ds</Filename>
+<Filename>7.1.2-20170720-N2G48B-v4.1-R3Ds</Filename>
 <ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
-<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=961840155545579801</RomUrl>
+<RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=673368273298972955</RomUrl>
 <GappsMiniUrl id="gapps-mini" title="Beans Mini-Dynamic Gapps" description="Updated on 05/09/2017">https://www.androidfilehost.com/?fid=673368273298953529</GappsMiniUrl>
+<BBUrl id="bb" title="B14CKB1RD" description="Kernel by REV3NTECH">https://www.androidfilehost.com/?fid=745425885120746664</BBUrl>
 <HelpUrl id="help" title="Telegram Chat" description="Help for S.i.X users">http://tinyurl.com/sixhelp</HelpUrl>
 <R3DsUrl id="r3ds" title="Donate to R3Ds" description="PayPal for Frankie">https://www.paypal.me/R3Ds</R3DsUrl>
 <BBUrl id="bb" title="Donate to REV3NTECH" description="PayPal for RΞVΞN">https://forum.xda-developers.com/donatetome.php?u=5037435</BBUrl>
