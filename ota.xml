@@ -9,7 +9,7 @@
 <BBUrl id="bb" title="B14CKB1RD" description="Kernel by REV3NTECH">https://www.androidfilehost.com/?fid=745425885120746664</BBUrl>
 <HelpUrl id="help" title="Telegram Chat" description="Help for S.i.X users">http://tinyurl.com/sixhelp</HelpUrl>
 <R3DsUrl id="r3ds" title="Donate to R3Ds" description="PayPal for Frankie">https://www.paypal.me/R3Ds</R3DsUrl>
-<BBUrl id="bb" title="Donate to REV3NTECH" description="PayPal for RΞVΞN">https://forum.xda-developers.com/donatetome.php?u=5037435</BBUrl>
+<RevUrl id="rev" title="Donate to REV3NTECH" description="PayPal for RΞVΞN">https://forum.xda-developers.com/donatetome.php?u=5037435</RevUrl>
 <BeansUrl id="beans" title="Donate to BeansTown106" description="PayPal for Nate">https://www.paypal.me/BeansTown106</BeansUrl>
 </shamu>
 
