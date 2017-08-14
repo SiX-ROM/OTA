@@ -6,8 +6,8 @@
 <ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
 <RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=961840155545587373</RomUrl>
 <GappsMiniUrl id="gapps-mini" title="Beans Mini-Dynamic Gapps" description="Updated on 07/25/2017">https://www.androidfilehost.com/?fid=889764386195918677</GappsMiniUrl>
-<microGappsUrl id="gapps-micro" title="microG-NanoMod" description="1 of 2 Updated on 07/23/2017">https://www.androidfilehost.com/?fid=745425885120751569</microGappsUrl>
-<microsixGappsUrl id="gapps-microsix" title="microG-SiXPack" description="2 of 2 Updated on 07/31/2017">https://www.androidfilehost.com/?fid=961840155545586141</microsixGappsUrl>
+<microGappsUrl id="gapps-micro" title="microG-NanoMod" description="1 of 2 Updated on 08/17/2017">https://www.androidfilehost.com/?fid=889764386195923497</microGappsUrl>
+<micro2GappsUrl id="gapps-micro2" title="microG-SafetyNet" description="2 of 2 Updated on 08/20/2017">https://www.androidfilehost.com/?fid=817550096634793991</micro2GappsUrl>
 <magiskUrl id="magisk" title="Magisk Root" description="Recommended for microG users">https://www.androidfilehost.com/?fid=889764386195918761</magiskUrl>
 <BBUrl id="bb" title="B14CKB1RD" description="Kernel by REV3NTECH">https://www.androidfilehost.com/?fid=745425885120746664</BBUrl>
 <HelpUrl id="help" title="Telegram Chat" description="Help for S.i.X users">http://tinyurl.com/sixhelp</HelpUrl>
@@ -18,7 +18,6 @@
 <ChangelogUrl id="changelog" title="Upcoming changelog" description="Work in progress and new changes">http://tinyurl.com/hec5zpc</ChangelogUrl>
 <RomUrl id="rom" title="Download ROM" description="Latest build">https://www.androidfilehost.com/?fid=961840155545587386</RomUrl>
 <GappsMiniUrl id="gapps-mini" title="Beans Mini-Dynamic Gapps" description="Updated on 07/25/2017">https://www.androidfilehost.com/?fid=889764386195918677</GappsMiniUrl>
-<microGappsUrl id="gapps-micro" title="microG-NanoMod" description="Updated on 07/23/2017">https://www.androidfilehost.com/?fid=745425885120751569</microGappsUrl>
 <VendorUrl id="vendor" title="Vendor N2G48C" description="Latest vendor img">https://www.androidfilehost.com/?fid=817550096634791267</VendorUrl>
 <HelpUrl id="help" title="Telegram Chat" description="Help for S.i.X users">http://tinyurl.com/sixhelp</HelpUrl>
 </angler>
